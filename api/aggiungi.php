@@ -31,3 +31,6 @@ else
 }
 $conn->close();
 ?>
+<html>
+<input name="_method" type="hidden" value="delete" />
+</html>
